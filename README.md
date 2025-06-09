@@ -43,8 +43,8 @@ Este projeto também foi um dos desafios da matéria "Pensamento Computacional",
 
 <hr>
 <b>O que é o Scratch?</b><br>
-O Scratch é uma uma ferramenta online gratuita, desenvolvida pelo MIT Media Lab. É uma linguagem de programação gráfica, ou seja, que usa blocos gráficos em vez de linhas de código, projetada para ensinar programação de forma acessível e divertida, especialmente para crianças e iniciantes.
-Com o Scratch, é possível criar animações, jogos e histórias interativas, expressando paixões e interesses pessoais por meio da programação em blocos.
+<p>O Scratch é uma uma ferramenta online gratuita, desenvolvida pelo MIT Media Lab. É uma linguagem de programação gráfica, ou seja, que usa blocos gráficos em vez de linhas de código, projetada para ensinar programação de forma acessível e divertida, especialmente para crianças e iniciantes.<br>
+Com o Scratch, é possível criar animações, jogos e histórias interativas, expressando paixões e interesses pessoais por meio da programação em blocos.</p>
 
-Link oficial Scratch: [https://scratch.mit.edu/](https://scratch.mit.edu/) <br>
-Link Scratch Brasil: [https://scratchbrasil.org.br/o-que-e-scratch/](https://scratchbrasil.org.br/o-que-e-scratch/)
+<p>Link oficial Scratch: [https://scratch.mit.edu/](https://scratch.mit.edu/) <br>
+Link Scratch Brasil: [https://scratchbrasil.org.br/o-que-e-scratch/](https://scratchbrasil.org.br/o-que-e-scratch/)</p>
